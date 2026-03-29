@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Hiba</h1>
 <h3 align="center">A passionate computer science engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Hotel management system**
+I'm Heba, a Computer Science student blending data, intelligence, and creativity.
 
-- 🌱 I’m currently learning **Database and Html and CSS**
+I enjoy building systems, analyzing data, and designing visuals — turning ideas into both functional and visually engaging projects.
 
-- 🤝 I’m looking for help with **Smart home control app**
+If something sparks my curiosity, I dive into it and learn by building.
 
-- ⚡ Fun fact **I use scratch.**
+💻 My current focus includes:
+
+Machine Learning (classification, regression, model evaluation)
+Data Science (data analysis, visualization, preprocessing)
+3D Modeling (Blender, game assets, environments)
+Databases (ERD, normalization, SQL)
+
+📊 I’ve worked on:
+
+Data science and machine learning projects
+Crime Record Management System
+Course Registration System (DBMS project)
+UI/UX designs in Figma
+
+🚀 Currently exploring:
+
+Advanced ML & real-world applications
+Game development (Unity + 3D assets)
+Backend systems & project architecture
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
