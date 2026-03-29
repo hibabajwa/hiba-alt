@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiba</h1>
 <h3 align="center">A passionate CSE from Pakistan</h3>
 
-I'm Heba, a Computer Science student blending data, intelligence, and creativity.
 
-I enjoy building systems, analyzing data, and designing visuals — turning ideas into both functional and visually engaging projects.
+I enjoy building systems, analyzing data, and designing visuals and turning ideas into both functional and visually engaging projects.
 
 If something sparks my curiosity, I dive into it and learn by building.
 
@@ -27,7 +26,7 @@ Advanced ML & real-world applications
 Game development (Unity + 3D assets)
 Backend systems & project architecture
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
