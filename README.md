@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I enjoy building systems, analyzing data, and designing visuals and turning ideas into both functional and visually engaging projects.<br><br>If something sparks my curiosity, I dive into it and learn by building.<br><br>However, I like 3D modelling besides coding.<br><br>I’m always learning, experimenting, and improving my skills.<br><br>I have build several projects but I am currently improving them.<br><br>Currently exploring:<br>Advanced ML & real-world applications<br>Game development (Unity + 3D assets)<br>Backend systems & project architecture<br><br><br>Fun Facts: <br>I like playing games.<br>My fav anime is Fairytail.<br>I like Solya.</p>
+<p align="left">I enjoy building systems, analyzing data, and designing visuals and turning ideas into both functional and visually engaging projects.<br><br>If something sparks my curiosity, I dive into it and learn by building.<br><br>However, I like 3D modelling besides coding.<br><br>I’m always learning, experimenting, and improving my skills.<br><br>I have build several projects but I am currently improving them.<br><br>Currently exploring:<br>Advanced ML & real-world applications<br>Game development (Unity + 3D assets)<br>Backend systems & project architecture<br><br><br>Fun Facts: <br>I like playing games.<br>My fav anime is Fairytail.<br>I like Solya 🎵.</p>
 
 ###
 
